@@ -1,0 +1,1 @@
+This project teaches how to create a main index page that contains links to display food recipes.
